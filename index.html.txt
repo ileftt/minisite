@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mini-Site des Réseaux Sociaux</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Bienvenue sur le Mini-Site des Réseaux Sociaux</h1>
+    <p>Ce site vous présente :</p>
+    <ul>
+        <li><a href="historique.html">L'historique des réseaux sociaux</a></li>
+        <li><a href="confidentialite.html">La confidentialité sur les réseaux sociaux</a></li>
+    </ul>
+    <img src="https://via.placeholder.com/300" alt="Image sur les réseaux sociaux">
+    <p>Source de référence : <a href="https://www.w3schools.com" target="_blank">W3Schools</a></p>
+</body>
+</html>
